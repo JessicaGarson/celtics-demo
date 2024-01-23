@@ -14,7 +14,7 @@ The focus is on utilizing Boston Celtics data to showcase these processes.
 
 - Download the latest version of Python if you don’t have it installed on your machine. This example utilizes Python 3.12.1.
 
-- You will use the [nba\_api](https://github.com/swar/nba_api) package to get recent statistics about the Boston Celtics, [Jupyter Notebooks,](https://jupyter.org/) and the [Elasticsearch Python Client](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html). While testing this code, I got an error unless I had [pandas](https://pandas.pydata.org/) installed since the nba\_data creates pandas DataFrames.
+- You will use the [nba\_api](https://github.com/swar/nba_api) package to get recent statistics about the Boston Celtics, [Jupyter Notebooks,](https://jupyter.org/) and the [Elasticsearch Python Client](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html). While testing this code, I got an error unless I had [pandas](https://pandas.pydata.org/) installed since `nba_data` creates pandas DataFrames.
 
     To install these packages, you can run the following command.
 
@@ -30,3 +30,8 @@ The focus is on utilizing Boston Celtics data to showcase these processes.
 
 
 In the right-hand corner, you can select where it says “New” to create a new Jupyter Notebook.
+
+## Getting help
+
+Let us know if you need if this blog post inspires you to build anything or if you have any questions on our [Discuss forums](https://discuss.elastic.co/) and [the community Slack channel](https://communityinviter.com/apps/elasticstack/elastic-community).
+
