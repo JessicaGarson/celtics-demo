@@ -10,7 +10,7 @@ The focus is on utilizing Boston Celtics data to showcase these processes.
 
 ## Prerequisites
 
-- This demo uses Elasticsearch version 8.11; if you are new, check out our Quick Starts on [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) and [Kibana](https://www.elastic.co/guide/en/kibana/current/get-started.html).
+- This demo uses Elasticsearch version 8.13; if you are new, check out our Quick Starts on [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) and [Kibana](https://www.elastic.co/guide/en/kibana/current/get-started.html).
 
 - Download the latest version of Python if you don’t have it installed on your machine. This example utilizes Python 3.12.1.
 
@@ -28,8 +28,12 @@ The focus is on utilizing Boston Celtics data to showcase these processes.
     jupyter notebook
     ```
 
-
 In the right-hand corner, you can select where it says “New” to create a new Jupyter Notebook.
+
+## Resources
+- [How to analyze data using Python, Elasticsearch and Kibana](https://www.elastic.co/search-labs/blog/analyzing-data-using-python-elasticsearch-and-kibana)
+- [Intro to Elasticsearch](https://www.youtube.com/watch?v=avxqGSPyKOA)
+- [Beginner's Crash Course to Elastic Stack](https://www.youtube.com/watch?v=gS_nHTWZEJ8)
 
 ## Getting help
 
